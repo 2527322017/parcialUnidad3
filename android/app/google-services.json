@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206870975339",
+    "project_id": "utec-flutter-project2021",
+    "storage_bucket": "utec-flutter-project2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206870975339:android:8f4cc17cf549914ff9b22e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_parcial3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206870975339-b0s809v51ru9ir40gtqc1ul6tknr9c4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTsGD5ygRyE7YROI2TrSCK_vdazTRi8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206870975339-b0s809v51ru9ir40gtqc1ul6tknr9c4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
